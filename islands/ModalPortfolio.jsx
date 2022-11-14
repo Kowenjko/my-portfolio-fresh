@@ -18,6 +18,7 @@ export default function ModalPortfolio(
         <img
           class="rounded-t-lg object-cover w-full"
           src={`${projectPortfolio?.imageUrl}`}
+          alt={projectPortfolio?.title}
         />
         <div class="p-6 ">
           <div class="flex justify-between items-center">

@@ -7,6 +7,7 @@ export default function Card({ openModal, project }) {
         <img
           class="rounded-t-lg object-cover h-56 w-full opacity-50 transition-all duration-300"
           src={`${project.imageUrl}`}
+          alt={project.title}
         />
       </a>
 
