@@ -1,6 +1,6 @@
 import { Fragment, JSX } from "preact";
 
-export function TimeLines({ lists }) {
+export default function TimeLines({ lists }) {
   const listsLenght = lists.length;
   return (
     <Fragment>

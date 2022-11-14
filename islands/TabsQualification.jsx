@@ -1,5 +1,5 @@
 import { useState } from "preact/hooks";
-import { TimeLines } from "../ui/components/Timelines.jsx";
+import TimeLines from "./TimeLines.jsx";
 
 export default function TabsQualification({ qualification }) {
   const [show, setShow] = useState(false);

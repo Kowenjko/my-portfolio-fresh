@@ -14,6 +14,7 @@ import * as $$5 from "./islands/Navigation.jsx";
 import * as $$6 from "./islands/Slides.jsx";
 import * as $$7 from "./islands/SwitchTheme.tsx";
 import * as $$8 from "./islands/TabsQualification.jsx";
+import * as $$9 from "./islands/TimeLines.jsx";
 
 const manifest = {
   routes: {
@@ -30,6 +31,7 @@ const manifest = {
     "./islands/Slides.jsx": $$6,
     "./islands/SwitchTheme.tsx": $$7,
     "./islands/TabsQualification.jsx": $$8,
+    "./islands/TimeLines.jsx": $$9,
   },
   baseUrl: import.meta.url,
   config,
