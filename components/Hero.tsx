@@ -13,7 +13,7 @@ export function Hero() {
             <div class="h-[350px] w-72 md:h-96 md:w-80 bg-[#EAE6FE] absolute rounded-2xl top-0 left-0 overflow-hidden">
               <img
                 class="absolute bottom-0 -left-12"
-                src="/i.png"
+                src="/i.webp"
                 alt="Kovenko"
               />
               <img
