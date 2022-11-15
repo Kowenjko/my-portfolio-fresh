@@ -18,7 +18,7 @@ export function Hero() {
               />
               <img
                 class="absolute -top-2 -right-2 md:top-0 md:right-0 scale-[0.9] md:scale-100"
-                src="/lines.png"
+                src="/lines.webp"
                 alt="line"
               />
             </div>

@@ -35,6 +35,16 @@ export function TestProjects() {
       imageUrl: "/webp/movie_js.webp",
     },
     {
+      title: "Electro Shop",
+      git: true,
+      href: "https://github.com/Kowenjko/Kursova_JS_Kowenjko.git",
+      keywords: ["Django", "Python", "PostgreSQL"],
+      category: "Shop",
+      description:
+        "The demo site of the store is written in Django, the PostgeSQL database is used.",
+      imageUrl: "/webp/django.webp",
+    },
+    {
       title: "World News",
       git: true,
       href: "https://github.com/Kowenjko/Kursova_JS_Kowenjko.git",

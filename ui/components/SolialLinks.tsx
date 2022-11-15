@@ -3,7 +3,6 @@ import { JSX } from "preact";
 export function SocialLinks() {
   const socialLinks = [
     { icon: "uil-linkedin-alt", url: "https://www.linkedin.com/in/kovenko" },
-    { icon: "uil-dribbble", url: "https://dribbble.com/" },
     { icon: "uil-github-alt", url: "https://github.com/kowenjko" },
   ];
   return (

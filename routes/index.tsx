@@ -1,5 +1,3 @@
-import { Head } from "$fresh/runtime.ts";
-
 import BaseLayout from "../components/layouts/BaseLayout.jsx";
 import { Hero } from "../components/Hero.tsx";
 import { Services } from "../components/Services.jsx";

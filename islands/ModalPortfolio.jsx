@@ -1,12 +1,10 @@
-import { useState } from "preact/hooks";
-
 export default function ModalPortfolio(
   { projectPortfolio, closeModal, showModal },
 ) {
   const styleShowModal = showModal && "opacity-100 scale-100";
   return (
     <div
-      class={`fixed top-0 left-0 bg-[#0c0c0ca6] transition-all duration-300 z-50 w-full h-screen opacity-0 scale-0 flex justify-center items-center ${styleShowModal}`}
+      class={`fixed top-0 left-0  dark:bg-[#17172ed2] bg-[#18294345] transition-all duration-300 z-50 w-full h-screen opacity-0 scale-0 flex justify-center items-center ${styleShowModal}`}
     >
       <div
         class="absolute text-2xl top-4 right-4 text-white hover:scale-110 cursor-pointer "

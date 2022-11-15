@@ -1,5 +1,4 @@
 import { JSX } from "preact";
-import { Button } from "../ui/components/Button.tsx";
 import Navigation from "../islands/Navigation.jsx";
 import SwitchTheme from "../islands/SwitchTheme.tsx";
 import MobileHeader from "../islands/MobileHeader.jsx";
