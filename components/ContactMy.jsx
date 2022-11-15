@@ -1,5 +1,3 @@
-import { JSX } from "preact";
-import { TitleCategory } from "../ui/components/TitleCategory.jsx";
 import FormContact from "../islands/FormContact.jsx";
 
 export function ContactMy() {

@@ -34,7 +34,6 @@ export default function BaseLayout(props) {
         </main>
         <Footer />
       </div>
-      {/* Email js link */}
       <script
         type="text/javascript"
         src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"

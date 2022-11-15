@@ -1,7 +1,6 @@
 import { JSX } from "preact";
 
 export default function SvgLayout({ children, classSvg }) {
-  console.log("children", children);
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"

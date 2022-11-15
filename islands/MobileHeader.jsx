@@ -16,7 +16,7 @@ export default function MobileHeader({ links }) {
         <i class="uil uil-bars"></i>
       </div>
       <div
-        class={` fixed top-0 right-0 bg-[#0c0c0ca6] h-screen ${
+        class={`fixed top-0 right-0 dark:bg-[#17172ed2] bg-[#18294345] h-screen ${
           showSidebar ? " w-full" : " w-0"
         }`}
       >
